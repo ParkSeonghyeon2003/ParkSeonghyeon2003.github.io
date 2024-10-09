@@ -3,7 +3,7 @@ layout: post
 title: 프로그래머스 Lv. 0 '숫자 비교하기'
 date: 2024-10-02
 description: 삼항연산자를 이용해 풀이
-tags: C++/Cpp
+tags: C++/Cpp 1주차
 categories: 프로그래머스
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 프로그래머스 Lv. 0 '두 수의 나눗셈'
 date: 2024-10-02
 description: 명시적/묵시적 타입캐스팅을 이용해 풀이
-tags: C++/Cpp
+tags: C++/Cpp 1주차
 categories: 프로그래머스
 ---
 

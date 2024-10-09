@@ -3,7 +3,7 @@ layout: post
 title: 프로그래머스 Lv. 0 '분수의 덧셈'
 date: 2024-10-02
 description: 유클리드 호제법을 이용해 풀이
-tags: C++/Cpp
+tags: C++/Cpp 1주차
 categories: 프로그래머스
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 프로그래머스 Lv. 0 '최빈값 구하기'
 date: 2024-10-02
 description: 해시 맵, 이터레이터를 이용해 풀이
-tags: C++/Cpp
+tags: C++/Cpp 1주차
 categories: 프로그래머스
 ---
 
